@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 7,
+		"pack_format": 101.1,
 		"description": "A datapack that raises water or lava levels over time. §cHow long will you survive?"
 	}
 }
